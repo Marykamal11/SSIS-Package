@@ -1,0 +1,16 @@
+St_Fname,St_Id,St_Lname,St_Address
+Ahmed,1,Hassan    ,Cairo
+Amr,2,Magdy     ,Cairo
+Mona,3,Saleh     ,Cairo
+Ahmed,4,Mohamed   ,Alex
+Khalid,5,Moahmed   ,Alex
+Heba,6,Farouk    ,Mansoura
+Ali,7,Hussien   ,Cairo
+Mohamed,8,Fars      ,Alex
+Saly,9,Ahmed     ,Mansoura
+Fady,10,Ali       ,Alex
+Marwa,11,Ahmed     ,Cairo
+Noha,12,Omar      ,Cairo
+Said,13,,
+,14,Saleh     ,Tanta
+Mohamed,100,,
